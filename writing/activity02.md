@@ -76,8 +76,8 @@ t.test(Sepal.Width ~ Species,
 	`TODO`
 
 
-4. Complete an all-against-all correlation (using ` method = "spearman"`) test for the Iris columns;`Sepal.Length`, `Sepal.Width`, `Petal.Length`, and `Petal.Width`. Note: your code should produce a matrix of correlation values where the correlation values are shown for rows versus columns.
-- Enter your code below.
+4. Complete an all-against-all correlation test (using ` method = "spearman"`) of the Iris columns;`Sepal.Length`, `Sepal.Width`, `Petal.Length`, and `Petal.Width`. Note: your code should produce a matrix of correlation values where the correlation values are shown for rows versus columns.
+ - Enter your code below.
 
 	`TODO`
 
